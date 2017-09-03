@@ -1,0 +1,25 @@
+body {
+  background: url(gym.jpg);
+  background-size: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.lift {
+  text-align: center;
+}
+
+.row .form-control-male {
+  resize: 50%;
+}
+
+.row .form-control-female {
+  resize: 50%;
+}
+
+.row .form-control-poundInput {
+  resize: 50%;
+}
